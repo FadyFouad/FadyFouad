@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **react native**
 
+- 🤖 [**My Projects**](https://github.com/FadyFouad/ProjectsSummary)
+
 - 💬 Ask me about **android , iOS,  flutter**
 
 - 📫 How to reach me **fady.fouad.a@gmail.com**
