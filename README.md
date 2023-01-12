@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif">
 
-- 🌱 I’m currently learning **react native**
+![](https://komarev.com/ghpvc/?username=FadyFouad)
+
+
+- 🌱 I’m currently learning **System Design**
 
 - 🤖 [**My Projects**](https://github.com/FadyFouad/ProjectsSummary)
 
