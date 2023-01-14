@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **System Design**
 
-- 🤖 [**My Projects**](https://github.com/FadyFouad/ProjectsSummary)
+- 🤖 [**My Recent Projects**](https://github.com/FadyFouad/ProjectsSummary)
 
 - 💬 Ask me about **android , iOS,  flutter**
 
