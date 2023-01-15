@@ -37,8 +37,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Social Links:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eng-fady-fouad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://play.google.com/store/apps/developer?id=ETA+TECH" height="30" width="40" /></a>
-<a href="https://play.google.com/store/apps/developer?id=ETA+TECH" target="blank"><img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_Play_512px_clr_nGVTgYY.max-500x500.png" alt="https://www.facebook.com/ahmd.talal.5/" height="30" width="40" /></a>
+
+ <a href="https://www.linkedin.com/in/eng-fady-fouad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://play.google.com/store/apps/developer?id=ETA+TECH" height="30" width="40" /></a>
+ 
+<a href="https://play.google.com/store/apps/developer?id=ETA+TECH" target="blank"><img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_Play_512px_clr_nGVTgYY.max-500x500.png" alt="" height="30" width="40" /></a>
+
+
+<a href="https://leetcode.com/Fady_Fouad/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="https://leetcode.com/Fady_Fouad/" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
